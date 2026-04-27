@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap&#39;')
+
+:root {
+    --cor-de-fundo: #A5A0F5;
+    --grifar: #4F2B89;
+    --branco: #ffffff;
+    --botao-ativo: #D3C8F5;
+    --botao-inativo: #B59FF5;
+    --texto-fundo: #4A4164;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
